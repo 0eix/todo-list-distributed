@@ -1,0 +1,9 @@
+[submodule "todoListApp-client"]
+	path = todoListApp-client
+	url = git@github.com:0eix/todoListApp-client.git
+[submodule "todoListApp-Persistence"]
+	path = todoListApp-Persistence
+	url = git@github.com:0eix/todoListApp-Persistence.git
+[submodule "todoListApp-API"]
+	path = todoListApp-API
+	url = git@github.com:0eix/todoListApp-API.git
